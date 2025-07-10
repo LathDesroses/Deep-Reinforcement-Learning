@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Learning# DRL Stock Trading
+# Deep-Reinforcement-Learning
 
 This project applies **Deep Reinforcement Learning (DRL)** to financial markets, training AI agents to optimize trading strategies and compare their performance against traditional investment methods.
 
